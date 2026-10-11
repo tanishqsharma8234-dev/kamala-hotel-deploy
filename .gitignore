@@ -1,0 +1,13 @@
+*.backup
+*.py
+*.pyc
+__pycache__/
+.arena/
+.cache/
+.local/
+Unselected files/
+uploads/
+test_layout.html
+check_frame.jpg
+frame2.jpg
+dal-fry-crop-preview.jpg

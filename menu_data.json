@@ -1,0 +1,1001 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "name": "All Items",
+      "icon": "\ud83c\udf1f"
+    },
+    {
+      "id": "specials",
+      "name": "Specials",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "thali",
+      "name": "Thali & Meals",
+      "icon": "\ud83c\udf71"
+    },
+    {
+      "id": "soups",
+      "name": "Soups",
+      "icon": "\ud83e\udd63"
+    },
+    {
+      "id": "main-course",
+      "name": "Main Course",
+      "icon": "\ud83c\udf72"
+    },
+    {
+      "id": "breads",
+      "name": "Breads",
+      "icon": "\ud83e\uded3"
+    },
+    {
+      "id": "chinese-appetizers",
+      "name": "Starters & Appetizers",
+      "icon": "\ud83c\udf62"
+    },
+    {
+      "id": "chinese-noodles",
+      "name": "Noodles",
+      "icon": "\ud83c\udf5c"
+    },
+    {
+      "id": "rice",
+      "name": "Rice & Biryani",
+      "icon": "\ud83c\udf5a"
+    },
+    {
+      "id": "pizza",
+      "name": "Pizza",
+      "icon": "\ud83c\udf55"
+    },
+    {
+      "id": "pasta",
+      "name": "Pasta",
+      "icon": "\ud83c\udf5d"
+    },
+    {
+      "id": "snacks",
+      "name": "Snacks & Burgers",
+      "icon": "\ud83e\udd6a"
+    },
+    {
+      "id": "tea-coffee",
+      "name": "Tea & Coffee",
+      "icon": "\u2615"
+    },
+    {
+      "id": "juices-shakes",
+      "name": "Juices & Shakes",
+      "icon": "\ud83e\uddc3"
+    },
+    {
+      "id": "salad-raita",
+      "name": "Salad & Raita",
+      "icon": "\ud83e\udd57"
+    }
+  ],
+  "items": [
+    {
+      "id": "kamala-special-dal-bati-churma",
+      "name": "Kamala Special Dal Bati Churma",
+      "category": "specials",
+      "desc": "Authentic Rajasthani feast of spiced Panchmel dal, ghee-dipped batis, sweet churma & garlic chutney",
+      "price": 299,
+      "image": "kamala-special-dal-bati-churma.jpg"
+    },
+    {
+      "id": "regular-thali",
+      "name": "Regular Thali",
+      "category": "thali",
+      "desc": "Dal Tadka, Seasonal Vegetable, Jeera Rice, Salad, Butter Tawa Roti (4), Achar, Boondi Raita, Papad",
+      "price": 160,
+      "image": "regular-thali.jpg"
+    },
+    {
+      "id": "standard-thali",
+      "name": "Standard Thali",
+      "category": "thali",
+      "desc": "Dal Makhani, Shahi Paneer, Seasonal Vegetable, Butter Tawa Roti (4), Raita, Fresh Salad, Sweet",
+      "price": 200,
+      "image": "standard-thali.jpg"
+    },
+    {
+      "id": "chinese-thali",
+      "name": "Chinese Thali",
+      "category": "thali",
+      "desc": "Veg Manchurian Gravy, Veg Fried Rice, Crispy Honey Chilli Potato, Tandoori Momos, Sweet",
+      "price": 250,
+      "image": "chinese-thali.jpg"
+    },
+    {
+      "id": "tomato-cream-soup",
+      "name": "Tomato Cream Soup",
+      "category": "soups",
+      "desc": "Rich, velvety soup prepared from vine-ripened tomatoes, fresh cream, and crisp golden croutons",
+      "price": 100,
+      "image": "tomato-cream-soup.jpg"
+    },
+    {
+      "id": "veg-manchow-soup",
+      "name": "Veg Manchow Soup",
+      "category": "soups",
+      "desc": "Popular dark spicy Indo-Chinese soup packed with finely diced vegetables, garlic, and crunchy fried noodles",
+      "price": 110,
+      "image": "veg-manchow-soup.jpg"
+    },
+    {
+      "id": "veg-hot-and-sour-soup",
+      "name": "Veg Hot & Sour Soup",
+      "category": "soups",
+      "desc": "Tangy and fiery vegetable soup infused with white pepper, soy, vinegar, cabbage, and mushrooms",
+      "price": 110,
+      "image": "veg-hot-and-sour-soup.jpg"
+    },
+    {
+      "id": "veg-lemon-coriander-soup",
+      "name": "Veg Lemon Coriander Soup",
+      "category": "soups",
+      "desc": "Delicate, vitamin-rich clear vegetable broth flavored with fresh lemon juice and fragrant coriander leaves",
+      "price": 110,
+      "image": "veg-lemon-coriander-soup.jpg"
+    },
+    {
+      "id": "sweet-corn-soup",
+      "name": "Sweet Corn Soup",
+      "category": "soups",
+      "desc": "Comforting, mildly sweet broth loaded with tender American sweet corn kernels and seasonal vegetables",
+      "price": 110,
+      "image": "sweet-corn-soup.jpg"
+    },
+    {
+      "id": "dal-fry",
+      "name": "Dal Fry",
+      "category": "main-course",
+      "desc": "Yellow lentils tempered with ghee, cumin & garlic",
+      "price": 130,
+      "image": "dal-fry.jpg"
+    },
+    {
+      "id": "dal-tadka",
+      "name": "Dal Tadka",
+      "category": "main-course",
+      "desc": "Classic spiced yellow dal with aromatic tadka",
+      "price": 150,
+      "image": "dal-tadka.jpg"
+    },
+    {
+      "id": "lasuni-dal",
+      "name": "Lasuni Dal",
+      "category": "main-course",
+      "desc": "Slow-cooked dal enriched with roasted golden garlic",
+      "price": 150,
+      "image": "lasuni-dal.jpg"
+    },
+    {
+      "id": "dal-makhani",
+      "name": "Dal Makhani",
+      "category": "main-course",
+      "desc": "Creamy black lentils simmered with butter & fresh cream",
+      "price": 220,
+      "image": "dal-makhani.jpg"
+    },
+    {
+      "id": "paneer-lababdar",
+      "name": "Paneer Lababdar",
+      "category": "main-course",
+      "desc": "Cottage cheese cubes in rich tomato & cashew gravy",
+      "price": 210,
+      "image": "paneer-lababdar.jpg"
+    },
+    {
+      "id": "kadai-paneer",
+      "name": "Kadai Paneer",
+      "category": "main-course",
+      "desc": "Paneer cooked with bell peppers and freshly ground kadai spices",
+      "price": 210,
+      "image": "kadai-paneer.jpg"
+    },
+    {
+      "id": "paneer-pasandha",
+      "name": "Paneer Pasandha",
+      "category": "main-course",
+      "desc": "Stuffed paneer sandwiches cooked in velvety rich gravy",
+      "price": 170,
+      "image": "paneer-pasandha.jpg"
+    },
+    {
+      "id": "paneer-butter-masala",
+      "name": "Paneer Butter Masala",
+      "category": "main-course",
+      "desc": "Tender paneer simmered in buttery makhani gravy",
+      "price": 210,
+      "image": "paneer-butter-masala.jpg"
+    },
+    {
+      "id": "shahi-paneer",
+      "name": "Shahi Paneer",
+      "category": "main-course",
+      "desc": "Royal paneer dish in sweet-savoury almond cashew gravy",
+      "price": 210,
+      "image": "shahi-paneer.jpg"
+    },
+    {
+      "id": "palak-paneer",
+      "name": "Palak Paneer",
+      "category": "main-course",
+      "desc": "Fresh cottage cheese cubes in spiced spinach puree",
+      "price": 170,
+      "image": "palak-paneer.jpg"
+    },
+    {
+      "id": "jeera-aloo",
+      "name": "Jeera Aloo",
+      "category": "main-course",
+      "desc": "Crispy baby potatoes tossed with roasted cumin seeds",
+      "price": 130,
+      "image": "jeera-aloo.jpg"
+    },
+    {
+      "id": "aloo-pyaz",
+      "name": "Aloo Pyaz",
+      "category": "main-course",
+      "desc": "Traditional homestyle potato and caramelized onion curry",
+      "price": 130,
+      "image": "aloo-pyaz.jpg"
+    },
+    {
+      "id": "rajasthani-gatta-curry",
+      "name": "Rajasthani Gatta Curry",
+      "category": "main-course",
+      "desc": "Authentic gram flour dumplings in spiced yogurt curry",
+      "price": 160,
+      "image": "rajasthani-gatta-curry.jpg"
+    },
+    {
+      "id": "bhindi-masala",
+      "name": "Bhindi Masala",
+      "category": "main-course",
+      "desc": "Fresh okra stir-fried with onions, tomatoes & ground spices",
+      "price": 170,
+      "image": "bhindi-masala.jpg"
+    },
+    {
+      "id": "chole-masala",
+      "name": "Chole Masala",
+      "category": "main-course",
+      "desc": "Plump chickpeas cooked in dark Amritsari style masala",
+      "price": 160,
+      "image": "chole-masala.jpg"
+    },
+    {
+      "id": "rajma-masala",
+      "name": "Rajma Masala",
+      "category": "main-course",
+      "desc": "Tender red kidney beans simmered in thick spicy gravy",
+      "price": 160,
+      "image": "rajma-masala.jpg"
+    },
+    {
+      "id": "mix-veg",
+      "name": "Mix Veg.",
+      "category": "main-course",
+      "desc": "Assorted garden fresh vegetables in aromatic Indian masala",
+      "price": 160,
+      "image": "mix-veg.jpg"
+    },
+    {
+      "id": "sev-tomato",
+      "name": "Sev Tomato",
+      "category": "main-course",
+      "desc": "Kathiyawadi style tangy tomato gravy topped with crispy sev",
+      "price": 160,
+      "image": "sev-tomato.jpg"
+    },
+    {
+      "id": "seasonal-veg",
+      "name": "Seasonal Veg.",
+      "category": "main-course",
+      "desc": "Chef special fresh seasonal vegetable preparation",
+      "price": 160,
+      "image": "seasonal-veg.jpg"
+    },
+    {
+      "id": "kofta-red-white",
+      "name": "Kofta (Red & White Curry)",
+      "category": "main-course",
+      "desc": "Melt-in-mouth vegetable koftas in dual red and white curries",
+      "price": 160,
+      "image": "kofta-red-white.jpg"
+    },
+    {
+      "id": "corn-palak",
+      "name": "Corn Palak",
+      "category": "main-course",
+      "desc": "Sweet corn kernels simmered in velvety garlic spinach",
+      "price": 130,
+      "image": "corn-palak.jpg"
+    },
+    {
+      "id": "aloo-matar",
+      "name": "Aloo Matar",
+      "category": "main-course",
+      "desc": "Comforting combination of potatoes & green peas in spiced gravy",
+      "price": 130,
+      "image": "aloo-matar.jpg"
+    },
+    {
+      "id": "tandoori-roti",
+      "name": "Tandoori Roti",
+      "category": "breads",
+      "desc": "Whole wheat bread baked in clay tandoor",
+      "price": 15,
+      "image": "tandoori-roti.jpg"
+    },
+    {
+      "id": "tandoori-roti-butter",
+      "name": "Tandoori Roti Butter",
+      "category": "breads",
+      "desc": "Crisp tandoori roti glazed with fresh butter",
+      "price": 20,
+      "image": "tandoori-roti-butter.jpg"
+    },
+    {
+      "id": "tawa-chapati",
+      "name": "Tawa Chapati",
+      "category": "breads",
+      "desc": "Homestyle phulka bread on traditional tawa",
+      "price": 10,
+      "image": "tawa-chapati.jpg"
+    },
+    {
+      "id": "tawa-chapati-butter",
+      "name": "Tawa Chapati Butter",
+      "category": "breads",
+      "desc": "Soft tawa chapati brushed with pure butter",
+      "price": 15,
+      "image": "tawa-chapati-butter.jpg"
+    },
+    {
+      "id": "plain-naan",
+      "name": "Plain Naan",
+      "category": "breads",
+      "desc": "Refined flour leavened bread baked in tandoor",
+      "price": 25,
+      "image": "plain-naan.jpg"
+    },
+    {
+      "id": "garlic-naan",
+      "name": "Garlic Naan",
+      "category": "breads",
+      "desc": "Fluffy naan topped with minced garlic and coriander",
+      "price": 30,
+      "image": "garlic-naan.jpg"
+    },
+    {
+      "id": "paneer-paratha",
+      "name": "Paneer Paratha",
+      "category": "breads",
+      "desc": "Whole wheat flatbread stuffed with spiced grated paneer",
+      "price": 70,
+      "image": "paneer-paratha.jpg"
+    },
+    {
+      "id": "aloo-paratha",
+      "name": "Aloo Paratha",
+      "category": "breads",
+      "desc": "Classic Punjabi paratha stuffed with seasoned mashed potatoes",
+      "price": 60,
+      "image": "aloo-paratha.jpg"
+    },
+    {
+      "id": "aloo-pyaz-paratha",
+      "name": "Aloo Pyaz Paratha",
+      "category": "breads",
+      "desc": "Golden paratha loaded with spiced onions and potato mash",
+      "price": 60,
+      "image": "aloo-pyaz-paratha.jpg"
+    },
+    {
+      "id": "lacha-paratha",
+      "name": "Lacha Paratha",
+      "category": "breads",
+      "desc": "Crispy multi-layered flaky tandoori whole wheat bread",
+      "price": 50,
+      "image": "lacha-paratha.jpg"
+    },
+    {
+      "id": "paneer-tikka",
+      "name": "Paneer Tikka",
+      "category": "chinese-appetizers",
+      "desc": "Chargrilled cottage cheese cubes marinated in spiced yogurt, tandoori masala, bell peppers & onions",
+      "price": 240,
+      "image": "paneer-tikka.jpg"
+    },
+    {
+      "id": "honey-chilli-potato",
+      "name": "Honey Chilli Potato",
+      "category": "chinese-appetizers",
+      "desc": "Crisp fried potato fingers glazed in sweet chilli honey sauce",
+      "price": 180,
+      "image": "honey-chilli-potato.jpg"
+    },
+    {
+      "id": "chilli-paneer",
+      "name": "Chilli Paneer (Dry/Gravy)",
+      "category": "chinese-appetizers",
+      "desc": "Wok-tossed paneer cubes with crunchy bell peppers & green chillies",
+      "price": 120,
+      "image": "chilli-paneer.jpg"
+    },
+    {
+      "id": "veg-manchurian",
+      "name": "Veg Manchurian (Dry/Gravy)",
+      "category": "chinese-appetizers",
+      "desc": "Vegetable dumplings tossed in tangy soya garlic sauce",
+      "price": 180,
+      "image": "veg-manchurian.jpg"
+    },
+    {
+      "id": "crispy-veg-hot-garlic",
+      "name": "Crispy Veg in Hot Garlic Sauce",
+      "category": "chinese-appetizers",
+      "desc": "Batter-fried seasonal vegetables glazed with pungent garlic gravy",
+      "price": 180,
+      "image": "crispy-veg-hot-garlic.jpg"
+    },
+    {
+      "id": "crispy-masala-corn",
+      "name": "Crispy Masala Corn",
+      "category": "chinese-appetizers",
+      "desc": "Crispy fried sweet corn tossed with onions, green chillies & lemon",
+      "price": 180,
+      "image": "crispy-masala-corn.jpg"
+    },
+    {
+      "id": "paneer-65",
+      "name": "Paneer 65",
+      "category": "chinese-appetizers",
+      "desc": "South-Indian inspired spicy deep-fried paneer with curry leaves",
+      "price": 120,
+      "image": "paneer-65.jpg"
+    },
+    {
+      "id": "tandoori-momos",
+      "name": "Tandoori Momos",
+      "category": "chinese-appetizers",
+      "desc": "Char-grilled momos marinated in spicy tikka marinade",
+      "price": 120,
+      "image": "tandoori-momos.jpg"
+    },
+    {
+      "id": "soya-chaap",
+      "name": "Soya Chaap",
+      "category": "chinese-appetizers",
+      "desc": "Tender soya chaap tossed in zesty Chinese chilli garlic sauce",
+      "price": 200,
+      "image": "soya-chaap.jpg"
+    },
+    {
+      "id": "veg-hakka-noodles",
+      "name": "Veg Hakka Noodles",
+      "category": "chinese-noodles",
+      "desc": "Classic stir-fried noodles with crunchy julienned vegetables",
+      "price": 160,
+      "image": "veg-hakka-noodles.jpg"
+    },
+    {
+      "id": "sechzwan-noodles",
+      "name": "Sechzwan Noodles",
+      "category": "chinese-noodles",
+      "desc": "Spicy noodles tossed in bold garlic schezwan pepper sauce",
+      "price": 160,
+      "image": "sechzwan-noodles.jpg"
+    },
+    {
+      "id": "chilli-garlic-noodles",
+      "name": "Chilli Garlic Noodles",
+      "category": "chinese-noodles",
+      "desc": "Aromatic noodles loaded with burnt garlic and fresh red chillies",
+      "price": 160,
+      "image": "chilli-garlic-noodles.jpg"
+    },
+    {
+      "id": "singapore-noodles",
+      "name": "Singapore Noodles",
+      "category": "chinese-noodles",
+      "desc": "Curry-flavored thin noodles with assorted vegetables and sprouts",
+      "price": 160,
+      "image": "singapore-noodles.jpg"
+    },
+    {
+      "id": "manchurian-noodles",
+      "name": "Manchurian Noodles",
+      "category": "chinese-noodles",
+      "desc": "Combination platter of wok noodles with savoury vegetable manchurian",
+      "price": 180,
+      "image": "manchurian-noodles.jpg"
+    },
+    {
+      "id": "steam-rice",
+      "name": "Steam Rice",
+      "category": "rice",
+      "desc": "Fluffy long-grain aromatic steamed basmati rice",
+      "price": 80,
+      "image": "steam-rice.jpg"
+    },
+    {
+      "id": "jeera-rice",
+      "name": "Jeera Rice",
+      "category": "rice",
+      "desc": "Basmati rice tempered with roasted cumin seeds and desi ghee",
+      "price": 120,
+      "image": "jeera-rice.jpg"
+    },
+    {
+      "id": "veg-rice",
+      "name": "Veg Rice",
+      "category": "rice",
+      "desc": "Fragrant basmati rice gently cooked with assorted vegetables",
+      "price": 160,
+      "image": "veg-rice.jpg"
+    },
+    {
+      "id": "veg-biryani",
+      "name": "Veg Biryani",
+      "category": "rice",
+      "desc": "Layered dum biryani with marinated veggies, saffron and mint",
+      "price": 180,
+      "image": "veg-biryani.jpg"
+    },
+    {
+      "id": "matar-pulao",
+      "name": "Matar Pulao",
+      "category": "rice",
+      "desc": "Aromatic basmati rice cooked with fresh green peas & spices",
+      "price": 160,
+      "image": "matar-pulao.jpg"
+    },
+    {
+      "id": "veg-fried-rice",
+      "name": "Veg Fried Rice",
+      "category": "rice",
+      "desc": "Wok-tossed basmati rice with finely diced crisp vegetables",
+      "price": 180,
+      "image": "veg-fried-rice.jpg"
+    },
+    {
+      "id": "mushroom-broccoli-fried-rice",
+      "name": "Mushroom Broccoli Fried Rice",
+      "category": "rice",
+      "desc": "Saut\u00e9ed fresh button mushrooms tossed with fragrant wok rice",
+      "price": 180,
+      "image": "mushroom-broccoli-fried-rice.jpg"
+    },
+    {
+      "id": "sechzwan-fried-rice",
+      "name": "Sechzwan Fried Rice",
+      "category": "rice",
+      "desc": "Spicy Indo-Chinese fried rice tossed with fiery schezwan sauce",
+      "price": 190,
+      "image": "sechzwan-fried-rice.jpg"
+    },
+    {
+      "id": "chilli-garlic-fried-rice",
+      "name": "Chilli Garlic Fried Rice",
+      "category": "rice",
+      "desc": "Zesty fried rice with roasted garlic, red chillies and spring onion",
+      "price": 180,
+      "image": "chilli-garlic-fried-rice.jpg"
+    },
+    {
+      "id": "paneer-tikka-pizza",
+      "name": "Paneer Tikka Pizza",
+      "category": "pizza",
+      "desc": "Spiced cottage cheese cubes, capsicum, red onion & mozzarella",
+      "price": 240,
+      "image": "paneer-tikka-pizza.jpg"
+    },
+    {
+      "id": "veg-delight-pizza",
+      "name": "Veg Delight Pizza",
+      "category": "pizza",
+      "desc": "Loaded with bell peppers, sweet corn, mushrooms, olives & cheese",
+      "price": 220,
+      "image": "veg-delight-pizza.jpg"
+    },
+    {
+      "id": "otc-pizza",
+      "name": "OTC Pizza",
+      "category": "pizza",
+      "desc": "Classic onion, tomato & capsicum pizza baked with melted mozzarella",
+      "price": 200,
+      "image": "otc-pizza.jpg"
+    },
+    {
+      "id": "margherita-pizza",
+      "name": "Margherita Pizza",
+      "category": "pizza",
+      "desc": "Traditional Italian thin crust with fresh basil, marinara & mozzarella",
+      "price": 200,
+      "image": "margherita-pizza.jpg"
+    },
+    {
+      "id": "mushroom-pizza",
+      "name": "Mushroom Pizza",
+      "category": "pizza",
+      "desc": "Generously topped with saut\u00e9ed button mushrooms, herbs & mozzarella",
+      "price": 260,
+      "image": "mushroom-pizza.jpg"
+    },
+    {
+      "id": "choice-of-pasta",
+      "name": "Choice of Pasta",
+      "category": "pasta",
+      "desc": "Options: Penne, Fusilli, Spaghetti in your choice of sauce",
+      "price": 160,
+      "image": "choice-of-pasta.jpg"
+    },
+    {
+      "id": "arrabbiata-spaghetti",
+      "name": "Arrabbiata Spaghetti",
+      "category": "pasta",
+      "desc": "Spicy Tomato Sauce, Olives, Bell Pepper",
+      "price": 180,
+      "image": "arrabbiata-spaghetti.jpg"
+    },
+    {
+      "id": "aglio-olio",
+      "name": "Aglio Olio",
+      "category": "pasta",
+      "desc": "Classic Italian Pasta with Garlic, Olive Oil & Herbs",
+      "price": 180,
+      "image": "aglio-olio.jpg"
+    },
+    {
+      "id": "alla-funghi",
+      "name": "Alla Funghi",
+      "category": "pasta",
+      "desc": "Creamy white sauce, Mushroom, Cheese",
+      "price": 180,
+      "image": "alla-funghi.jpg"
+    },
+    {
+      "id": "mix-sauce-pasta",
+      "name": "Mix Sauce Pasta",
+      "category": "pasta",
+      "desc": "Bell Pepper, Olives in pink combination sauce",
+      "price": 160,
+      "image": "mix-sauce-pasta.jpg"
+    },
+    {
+      "id": "creamy-pesto-penne",
+      "name": "Creamy Pesto Penne Pasta",
+      "category": "pasta",
+      "desc": "Rich basil pesto cream sauce with parmesan and garlic",
+      "price": 180,
+      "image": "creamy-pesto-penne.jpg"
+    },
+    {
+      "id": "french-fries",
+      "name": "French Fries with Sauce",
+      "category": "snacks",
+      "desc": "Golden crisp salted french fries served with ketchup & dip",
+      "price": 120,
+      "image": "french-fries.jpg"
+    },
+    {
+      "id": "veg-burger",
+      "name": "Veg Burger",
+      "category": "snacks",
+      "desc": "Crispy mixed vegetable patty with lettuce, tomatoes and mayo",
+      "price": 80,
+      "image": "veg-burger.jpg"
+    },
+    {
+      "id": "aloo-tikki-burger",
+      "name": "Aloo Tikki Burger",
+      "category": "snacks",
+      "desc": "Spiced potato tikki burger with sweet tangy mint chutney",
+      "price": 120,
+      "image": "aloo-tikki-burger.jpg"
+    },
+    {
+      "id": "paneer-burger",
+      "name": "Paneer Burger",
+      "category": "snacks",
+      "desc": "Grilled paneer steak burger with chipotle sauce and pickled onions",
+      "price": 100,
+      "image": "paneer-burger.jpg"
+    },
+    {
+      "id": "veg-sandwich",
+      "name": "Veg Sandwich",
+      "category": "snacks",
+      "desc": "Fresh vegetable sandwich with butter, mint chutney and crisp slices",
+      "price": 60,
+      "image": "veg-sandwich.jpg"
+    },
+    {
+      "id": "vegetable-sandwich",
+      "name": "Vegetable Sandwich",
+      "category": "snacks",
+      "desc": "Toasted double-layer sandwich with spiced potatoes, onions & tomatoes",
+      "price": 100,
+      "image": "vegetable-sandwich.jpg"
+    },
+    {
+      "id": "paneer-cheese-sandwich",
+      "name": "Paneer Cheese Sandwich",
+      "category": "snacks",
+      "desc": "Grilled sandwich loaded with seasoned grated paneer and melted cheese",
+      "price": 120,
+      "image": "paneer-cheese-sandwich.jpg"
+    },
+    {
+      "id": "baby-corn-cheese-sandwich",
+      "name": "Baby Corn & Cheese Sandwich",
+      "category": "snacks",
+      "desc": "Sweet baby corn tossed with herbs and cheese in toasted bread",
+      "price": 120,
+      "image": "baby-corn-cheese-sandwich.jpg"
+    },
+    {
+      "id": "fried-momos",
+      "name": "Fried Momos",
+      "category": "snacks",
+      "desc": "Crispy deep-fried momos served with fiery schezwan dipping sauce",
+      "price": 180,
+      "image": "fried-momos.jpg"
+    },
+    {
+      "id": "spring-roll",
+      "name": "Spring Roll",
+      "category": "snacks",
+      "desc": "Crispy fried rolls packed with shredded wok-tossed vegetables",
+      "price": 150,
+      "image": "spring-roll.jpg"
+    },
+    {
+      "id": "green-salad",
+      "name": "Green Salad",
+      "category": "salad-raita",
+      "desc": "Fresh slices of garden cucumbers, tomatoes, carrots and onions",
+      "price": 80,
+      "image": "green-salad.jpg"
+    },
+    {
+      "id": "onion-salad",
+      "name": "Onion Salad",
+      "category": "salad-raita",
+      "desc": "Crisp sliced red onions tossed with lemon juice and chaat masala",
+      "price": 60,
+      "image": "onion-salad.jpg"
+    },
+    {
+      "id": "greek-salad",
+      "name": "Greek Salad",
+      "category": "salad-raita",
+      "desc": "Crisp lettuce, bell peppers, olives & feta cheese dressing",
+      "price": 120,
+      "image": "greek-salad.jpg"
+    },
+    {
+      "id": "caesar-salad",
+      "name": "Caesar Salad",
+      "category": "salad-raita",
+      "desc": "Crisp romaine, parmesan flakes, golden croutons & caesar dressing",
+      "price": 120,
+      "image": "caesar-salad.jpg"
+    },
+    {
+      "id": "veg-raita",
+      "name": "Veg Raita",
+      "category": "salad-raita",
+      "desc": "Finely chopped tomatoes, cucumber and onions in creamy yogurt",
+      "price": 80,
+      "image": "veg-raita.jpg"
+    },
+    {
+      "id": "boondi-raita",
+      "name": "Boondi Raita",
+      "category": "salad-raita",
+      "desc": "Crispy spiced gram flour pearls in seasoned chilled yogurt",
+      "price": 80,
+      "image": "boondi-raita.jpg"
+    },
+    {
+      "id": "plain-raita",
+      "name": "Plain Raita",
+      "category": "salad-raita",
+      "desc": "Lightly seasoned homestyle set yogurt with cumin",
+      "price": 80,
+      "image": "plain-raita.jpg"
+    },
+    {
+      "id": "gud-ki-chai",
+      "name": "Gud ki Chai",
+      "category": "tea-coffee",
+      "desc": "Special highway desi kulhad chai brewed with pure natural jaggery, crushed fresh ginger & cardamom",
+      "price": 49,
+      "image": "gud-ki-chai.jpg"
+    },
+    {
+      "id": "normal-tea",
+      "name": "Normal Tea",
+      "category": "tea-coffee",
+      "desc": "Freshly brewed classic Indian milk tea",
+      "price": 20,
+      "image": "normal-tea.jpg"
+    },
+    {
+      "id": "masala-tea",
+      "name": "Masala Tea",
+      "category": "tea-coffee",
+      "desc": "Aromatic highway spiced chai boiled with traditional whole spices",
+      "price": 30,
+      "image": "masala-tea.jpg"
+    },
+    {
+      "id": "ginger-cardamom-tea",
+      "name": "Ginger / Cardamom Tea",
+      "category": "tea-coffee",
+      "desc": "Warm invigorating milk chai infused with freshly crushed ginger & fragrant elaichi",
+      "price": 30,
+      "image": "ginger-cardamom-tea.jpg"
+    },
+    {
+      "id": "lemon-grass-tea",
+      "name": "Lemon Grass Tea",
+      "category": "tea-coffee",
+      "desc": "Herbal soothing tea brewed with fresh lemongrass for citrusy aroma",
+      "price": 50,
+      "image": "lemon-grass-tea.jpg"
+    },
+    {
+      "id": "green-tea",
+      "name": "Green Tea",
+      "category": "tea-coffee",
+      "desc": "Antioxidant-rich organic warm green tea",
+      "price": 50,
+      "image": "green-tea.jpg"
+    },
+    {
+      "id": "lemon-tea",
+      "name": "Lemon Tea",
+      "category": "tea-coffee",
+      "desc": "Fresh warm tea infused with citrus lemon juice and mint",
+      "price": 50,
+      "image": "lemon-tea.jpg"
+    },
+    {
+      "id": "hot-coffee",
+      "name": "Hot Coffee",
+      "category": "tea-coffee",
+      "desc": "Rich, frothy hand-whipped hot milk coffee",
+      "price": 30,
+      "image": "hot-coffee.jpg"
+    },
+    {
+      "id": "cappuccino",
+      "name": "Cappuccino",
+      "category": "tea-coffee",
+      "desc": "Italian style espresso topped with a thick layer of creamy steamed milk foam",
+      "price": 100,
+      "image": "cappuccino.jpg"
+    },
+    {
+      "id": "coffee-latte",
+      "name": "Coffee Latte",
+      "category": "tea-coffee",
+      "desc": "Smooth espresso combined with velvety steamed milk and light crema",
+      "price": 100,
+      "image": "coffee-latte.jpg"
+    },
+    {
+      "id": "coffee-mocha",
+      "name": "Coffee Mocha",
+      "category": "tea-coffee",
+      "desc": "Decadent fusion of brewed espresso, dark chocolate and steamed milk",
+      "price": 100,
+      "image": "coffee-mocha.jpg"
+    },
+    {
+      "id": "cold-coffee",
+      "name": "Cold Coffee",
+      "category": "tea-coffee",
+      "desc": "Thick chilled blended coffee shake topped with chocolate drizzle",
+      "price": 100,
+      "image": "cold-coffee.jpg"
+    },
+    {
+      "id": "ice-tea",
+      "name": "Ice Tea",
+      "category": "tea-coffee",
+      "desc": "Refreshing chilled brewed tea served over ice cubes with lemon & fresh mint",
+      "price": 80,
+      "image": "ice-tea.jpg"
+    },
+    {
+      "id": "papaya-juice",
+      "name": "Papaya Juice",
+      "category": "juices-shakes",
+      "desc": "Freshly extracted sweet, tropical papaya juice",
+      "price": 40,
+      "image": "papaya-juice.jpg"
+    },
+    {
+      "id": "banana-juice",
+      "name": "Banana Juice",
+      "category": "juices-shakes",
+      "desc": "Wholesome, energizing fresh banana juice",
+      "price": 40,
+      "image": "banana-juice.jpg"
+    },
+    {
+      "id": "pineapple-juice",
+      "name": "Pineapple Juice",
+      "category": "juices-shakes",
+      "desc": "Zesty, tropical sweet & tangy freshly pressed pineapple juice",
+      "price": 40,
+      "image": "pineapple-juice.jpg"
+    },
+    {
+      "id": "mango-juice",
+      "name": "Mango Juice",
+      "category": "juices-shakes",
+      "desc": "Luscious, golden fresh mango juice",
+      "price": 40,
+      "image": "mango-juice.jpg"
+    },
+    {
+      "id": "orange-juice",
+      "name": "Orange Juice",
+      "category": "juices-shakes",
+      "desc": "Freshly squeezed vitamin-C rich citrus orange juice",
+      "price": 80,
+      "image": "orange-juice.jpg"
+    },
+    {
+      "id": "mixed-fruits-juice",
+      "name": "Mixed Fruits Juice",
+      "category": "juices-shakes",
+      "desc": "Nutrient-packed medley of freshly pressed seasonal fruits",
+      "price": 100,
+      "image": "mixed-fruits-juice.jpg"
+    },
+    {
+      "id": "papaya-shake",
+      "name": "Papaya Shake",
+      "category": "juices-shakes",
+      "desc": "Thick and wholesome papaya milkshake blended with chilled full-cream milk",
+      "price": 80,
+      "image": "papaya-shake.jpg"
+    },
+    {
+      "id": "banana-shake",
+      "name": "Banana Shake",
+      "category": "juices-shakes",
+      "desc": "Rich, creamy banana milkshake blended to perfection",
+      "price": 80,
+      "image": "banana-shake.jpg"
+    },
+    {
+      "id": "pineapple-shake",
+      "name": "Pineapple Shake",
+      "category": "juices-shakes",
+      "desc": "Tropical pineapple blended with sweet milk and ice cream",
+      "price": 80,
+      "image": "pineapple-shake.jpg"
+    },
+    {
+      "id": "mango-shake",
+      "name": "Mango Shake",
+      "category": "juices-shakes",
+      "desc": "Classic thick mango milkshake made with premium mango pulp and milk",
+      "price": 80,
+      "image": "mango-shake.jpg"
+    }
+  ]
+}

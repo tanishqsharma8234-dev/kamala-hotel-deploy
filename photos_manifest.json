@@ -1,0 +1,292 @@
+[
+  {
+    "src": "photos/hotel-exterior-day.jpg",
+    "width": 1170,
+    "height": 844,
+    "aspectRatio": 1.386,
+    "orientation": "landscape",
+    "title": "Hotel Exterior",
+    "desc": "Daytime front view of Hotel Kamala & Resto building and grand glass entrance",
+    "category": "exterior"
+  },
+  {
+    "src": "photos/hotel-exterior-night.jpg",
+    "width": 976,
+    "height": 1400,
+    "aspectRatio": 0.697,
+    "orientation": "portrait",
+    "title": "Night Facade",
+    "desc": "Illuminated nighttime facade with glowing Hotel Kamala neon sign",
+    "category": "exterior"
+  },
+  {
+    "src": "photos/hotel-grand-entrance.jpg",
+    "width": 1170,
+    "height": 853,
+    "aspectRatio": 1.372,
+    "orientation": "landscape",
+    "title": "Grand Entrance",
+    "desc": "Grand entrance and reception lobby with decorative balloon arch",
+    "category": "exterior"
+  },
+  {
+    "src": "photos/hotel-architecture-night.jpg",
+    "width": 1050,
+    "height": 1400,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "title": "Architectural Night View",
+    "desc": "Vertical architectural lighting and window bays at night",
+    "category": "exterior"
+  },
+  {
+    "src": "photos/room-deluxe-bed.jpg",
+    "width": 1170,
+    "height": 1339,
+    "aspectRatio": 0.874,
+    "orientation": "portrait",
+    "title": "Deluxe Room",
+    "desc": "Spacious king bed with tufted headboard, crisp linens and bedside table",
+    "category": "rooms"
+  },
+  {
+    "src": "photos/room-ac-wardrobe.jpg",
+    "width": 1170,
+    "height": 844,
+    "aspectRatio": 1.386,
+    "orientation": "landscape",
+    "title": "Room & Wardrobe",
+    "desc": "Deluxe air-conditioned bedroom with wooden wardrobe and attached bath",
+    "category": "rooms"
+  },
+  {
+    "src": "photos/room-bed-interior.jpg",
+    "width": 1050,
+    "height": 1400,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "title": "King Bed Suite",
+    "desc": "Comfortable king bedding with clean white pillows and modern amenities",
+    "category": "rooms"
+  },
+  {
+    "src": "photos/room-attached-bathroom.jpg",
+    "width": 1050,
+    "height": 1400,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "title": "Modern Bathroom",
+    "desc": "Spotless attached bathroom with rain shower and marble tile finishes",
+    "category": "rooms"
+  },
+  {
+    "src": "photos/room-vanity-desk.jpg",
+    "width": 1050,
+    "height": 1400,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "title": "Vanity & Study Desk",
+    "desc": "Custom wooden vanity dressing table, mirror and floating storage shelves",
+    "category": "rooms"
+  },
+  {
+    "src": "photos/room-bed-view.jpg",
+    "width": 1050,
+    "height": 1400,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "title": "Room Comfort",
+    "desc": "King bed with maroon runner, plush pillows and power backup",
+    "category": "rooms"
+  },
+  {
+    "src": "photos/room-window-view.jpg",
+    "width": 1050,
+    "height": 1400,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "title": "Room Window",
+    "desc": "Full height window with dark blackout curtains and outdoor view",
+    "category": "rooms"
+  },
+  {
+    "src": "photos/restaurant-dining-hall.jpg",
+    "width": 1170,
+    "height": 848,
+    "aspectRatio": 1.38,
+    "orientation": "landscape",
+    "title": "Restaurant Dining Hall",
+    "desc": "Pure vegetarian dining hall with solid wooden tables, chairs and chandeliers",
+    "category": "dining"
+  },
+  {
+    "src": "photos/restaurant-evening-ambience.jpg",
+    "width": 1086,
+    "height": 1400,
+    "aspectRatio": 0.776,
+    "orientation": "portrait",
+    "title": "Evening Dining",
+    "desc": "Warm chandelier lighting and glass facade dining ambience",
+    "category": "dining"
+  },
+  {
+    "src": "photos/deluxe-veg-thali.jpg",
+    "width": 985,
+    "height": 896,
+    "aspectRatio": 1.099,
+    "orientation": "landscape",
+    "title": "Deluxe Special Thali",
+    "desc": "Royal vegetarian thali with paneer, dal, rice, rotis, raita and sweet",
+    "category": "dining"
+  },
+  {
+    "src": "photos/chilli-paneer-momos.jpg",
+    "width": 1170,
+    "height": 838,
+    "aspectRatio": 1.396,
+    "orientation": "landscape",
+    "title": "Chilli Paneer & Momos",
+    "desc": "Fresh steamed momos and sizzler chilli paneer with dipping chutneys",
+    "category": "dining"
+  },
+  {
+    "src": "photos/sizzler-chilli-paneer.jpg",
+    "width": 1170,
+    "height": 818,
+    "aspectRatio": 1.43,
+    "orientation": "landscape",
+    "title": "Sizzler Appetizers",
+    "desc": "Chef specialty Indo-Chinese chilli paneer served on sizzler platters",
+    "category": "dining"
+  },
+  {
+    "src": "photos/breakfast-curry-spread.jpg",
+    "width": 1170,
+    "height": 811,
+    "aspectRatio": 1.443,
+    "orientation": "landscape",
+    "title": "Culinary Spread",
+    "desc": "Signature breakfast poha, parathas, grilled sandwiches and curries",
+    "category": "dining"
+  },
+  {
+    "src": "photos/reception-front-desk.jpg",
+    "width": 1077,
+    "height": 1400,
+    "aspectRatio": 0.77,
+    "orientation": "portrait",
+    "title": "Reception Counter",
+    "desc": "Front desk reception with welcoming staff and round-the-clock service",
+    "category": "facilities"
+  },
+  {
+    "src": "photos/hotel-corridor-elevator.jpg",
+    "width": 1089,
+    "height": 1400,
+    "aspectRatio": 0.778,
+    "orientation": "portrait",
+    "title": "Corridor & Elevator",
+    "desc": "Modern elevator landing and corridor with recessed LED false ceiling",
+    "category": "facilities"
+  },
+  {
+    "src": "photos/granite-staircase-lobby.jpg",
+    "width": 1066,
+    "height": 1400,
+    "aspectRatio": 0.762,
+    "orientation": "portrait",
+    "title": "Staircase Lobby",
+    "desc": "Granite guest staircase and elevator access across all hotel floors",
+    "category": "facilities"
+  },
+  {
+    "src": "photos/guest-room-hallway.jpg",
+    "width": 1084,
+    "height": 1400,
+    "aspectRatio": 0.775,
+    "orientation": "portrait",
+    "title": "Guest Room Hallway",
+    "desc": "Quiet guest floor hallway with secure room door locks and ambient light",
+    "category": "facilities"
+  },
+  {
+    "src": "photos/staff-hospitality.jpg",
+    "width": 1170,
+    "height": 1355,
+    "aspectRatio": 0.863,
+    "orientation": "portrait",
+    "title": "Warm Hospitality",
+    "desc": "Friendly hotel staff extending warm Rajasthani hospitality to guests",
+    "category": "facilities"
+  },
+  {
+    "src": "photos/banquet-party-hall.jpg",
+    "width": 1081,
+    "height": 1400,
+    "aspectRatio": 0.773,
+    "orientation": "portrait",
+    "title": "Banquet & Celebrations",
+    "desc": "Event hall ready for birthday parties, celebrations and get-togethers",
+    "category": "facilities"
+  },
+  {
+    "src": "photos/scenic-monsoon-highway.jpg",
+    "width": 1242,
+    "height": 1184,
+    "aspectRatio": 1.049,
+    "orientation": "landscape",
+    "title": "Highway & Aravalli Hills",
+    "desc": "Misty monsoon view of Jaipur-Delhi Highway and rolling hills from hotel",
+    "category": "scenic"
+  },
+  {
+    "src": "photos/scenic-night-skyline.jpg",
+    "width": 1363,
+    "height": 1400,
+    "aspectRatio": 0.974,
+    "orientation": "portrait",
+    "title": "Night Horizon",
+    "desc": "Tranquil night view of Achrol skyline with illuminated campus and hills",
+    "category": "scenic"
+  },
+  {
+    "src": "photos/scenic-sunset-highway.jpg",
+    "width": 1170,
+    "height": 1326,
+    "aspectRatio": 0.882,
+    "orientation": "portrait",
+    "title": "Golden Hour Sunset",
+    "desc": "Golden evening sunset framing highway light poles and the Aravalli range",
+    "category": "scenic"
+  },
+  {
+    "src": "photos/deluxe-room-bed-bath.jpg",
+    "width": 1050,
+    "height": 1400,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "title": "Deluxe Room Bed & Ensuite Bath",
+    "desc": "Comfortable king bed with plush pillows, red runner, split AC and modern attached bathroom",
+    "category": "rooms"
+  },
+  {
+    "src": "photos/deluxe-suite-bed-vanity.jpg",
+    "width": 1050,
+    "height": 1400,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "title": "Deluxe Suite & Vanity Desk",
+    "desc": "Spacious king bedding view with built-in wooden dressing vanity, mirror and tray ceiling lighting",
+    "category": "rooms"
+  },
+  {
+    "src": "photos/deluxe-room-ac-bathroom.jpg",
+    "width": 1170,
+    "height": 1355,
+    "aspectRatio": 0.863,
+    "orientation": "portrait",
+    "title": "Split AC & Marble Bathroom",
+    "desc": "Climate-controlled split air conditioning, dark blackout curtains and clean tiled attached bathroom",
+    "category": "rooms"
+  }
+]
